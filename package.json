@@ -1,0 +1,16 @@
+{
+  "name": "2022-07-12-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "solc": "^0.8.15",
+    "web3": "^1.7.4"
+  }
+}
